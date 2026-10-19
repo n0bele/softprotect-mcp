@@ -79,6 +79,9 @@ go build -o softprotect-mcp ./cmd/softprotect-mcp
 
 ## 4. IDE / Agent 接入
 
+> WorkBuddy / Codex / Claude / DeepSeek Harness 四平台的逐项配置见
+> [PLATFORMS.md](PLATFORMS.md)。
+
 **Claude Code**
 
 ```bash
