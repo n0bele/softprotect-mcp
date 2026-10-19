@@ -1,0 +1,9 @@
+# 本地临时资产（探测脚本、测试配置、下载产物）
+.tmp/
+data/
+outputs/
+
+# 构建产物（根锚定，避免误伤 cmd/softprotect-mcp/ 源码目录）
+/softprotect-mcp
+/softprotect-mcp.exe
+/dist/

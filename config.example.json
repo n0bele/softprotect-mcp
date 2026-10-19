@@ -1,0 +1,21 @@
+{
+  "_comment": "SoftProtect MCP 配置样例。复制到 ~/.config/softprotect-mcp/config.json 并 chmod 600。密钥只放这里，永远不要写进对话或工具参数。",
+  "base_url": "https://softprotect.si",
+  "api_key": "sp_在此填入你的用户 API 密钥",
+  "engine_hint": "windows-amd64",
+  "work_dir": "~/SoftProtectMCP",
+  "poll": {
+    "initial_interval_ms": 800,
+    "max_interval_ms": 5000,
+    "max_wait_s": 1800
+  },
+  "verify": {
+    "default_profile": "run",
+    "timeout_s": 300,
+    "keep_artifacts": true
+  },
+  "record": {
+    "path": "data/history.jsonl",
+    "keep_days": 180
+  }
+}
