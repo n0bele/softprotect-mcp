@@ -1,0 +1,12 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.n0bele/softprotect-mcp",
+  "title": "SoftProtect MCP",
+  "description": "MCP server letting AI agents pack and verify binaries via the SoftProtect anti-RE service.",
+  "version": "0.1.0",
+  "websiteUrl": "https://softprotect.si",
+  "repository": {
+    "url": "https://github.com/n0bele/softprotect-mcp",
+    "source": "github"
+  }
+}
