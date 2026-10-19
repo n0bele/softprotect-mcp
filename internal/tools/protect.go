@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/softprotect/softprotect-mcp/internal/binfmt"
-	"github.com/softprotect/softprotect-mcp/internal/mcp"
-	"github.com/softprotect/softprotect-mcp/internal/spapi"
-	"github.com/softprotect/softprotect-mcp/internal/store"
+	"github.com/n0bele/softprotect-mcp/internal/binfmt"
+	"github.com/n0bele/softprotect-mcp/internal/mcp"
+	"github.com/n0bele/softprotect-mcp/internal/spapi"
+	"github.com/n0bele/softprotect-mcp/internal/store"
 )
 
 // ---------- sp_upload ----------

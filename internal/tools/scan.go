@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/softprotect/softprotect-mcp/internal/binfmt"
-	"github.com/softprotect/softprotect-mcp/internal/config"
-	"github.com/softprotect/softprotect-mcp/internal/mcp"
-	"github.com/softprotect/softprotect-mcp/internal/plan"
+	"github.com/n0bele/softprotect-mcp/internal/binfmt"
+	"github.com/n0bele/softprotect-mcp/internal/config"
+	"github.com/n0bele/softprotect-mcp/internal/mcp"
+	"github.com/n0bele/softprotect-mcp/internal/plan"
 )
 
 // ---------- sp_ping ----------

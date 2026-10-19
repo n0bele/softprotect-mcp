@@ -15,8 +15,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/softprotect/softprotect-mcp/internal/mcp"
-	"github.com/softprotect/softprotect-mcp/internal/tools"
+	"github.com/n0bele/softprotect-mcp/internal/mcp"
+	"github.com/n0bele/softprotect-mcp/internal/tools"
 )
 
 // Step 一步的结果。

@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/softprotect/softprotect-mcp/internal/mcp"
-	"github.com/softprotect/softprotect-mcp/internal/store"
-	"github.com/softprotect/softprotect-mcp/internal/verify"
+	"github.com/n0bele/softprotect-mcp/internal/mcp"
+	"github.com/n0bele/softprotect-mcp/internal/store"
+	"github.com/n0bele/softprotect-mcp/internal/verify"
 )
 
 // ---------- sp_verify ----------

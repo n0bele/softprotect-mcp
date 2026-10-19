@@ -17,12 +17,12 @@ import (
 	"path/filepath"
 	"syscall"
 
-	"github.com/softprotect/softprotect-mcp/internal/config"
-	"github.com/softprotect/softprotect-mcp/internal/mcp"
-	"github.com/softprotect/softprotect-mcp/internal/selftest"
-	"github.com/softprotect/softprotect-mcp/internal/spapi"
-	"github.com/softprotect/softprotect-mcp/internal/store"
-	"github.com/softprotect/softprotect-mcp/internal/tools"
+	"github.com/n0bele/softprotect-mcp/internal/config"
+	"github.com/n0bele/softprotect-mcp/internal/mcp"
+	"github.com/n0bele/softprotect-mcp/internal/selftest"
+	"github.com/n0bele/softprotect-mcp/internal/spapi"
+	"github.com/n0bele/softprotect-mcp/internal/store"
+	"github.com/n0bele/softprotect-mcp/internal/tools"
 )
 
 func main() {

@@ -12,7 +12,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/softprotect/softprotect-mcp/internal/binfmt"
+	"github.com/n0bele/softprotect-mcp/internal/binfmt"
 )
 
 // MaxFunctions 服务端硬上限。
